@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Instantaneas Excepcion del snapshot 1`] = `
+Object {
+  "id": Any<Number>,
+  "name": "Santiago Barrera",
+}
+`;
+
+exports[`Instantaneas Siempre fallará la instantanea 1`] = `
+Object {
+  "createdAt": 2021-03-17T01:07:56.112Z,
+  "id": 8,
+}
+`;
+
+exports[`Instantaneas test de un snapshot 1`] = `
+Object {
+  "gender": "Male",
+  "id": 1,
+  "name": "Rick Sanchez",
+  "species": "Human",
+  "status": "Alive",
+}
+`;
